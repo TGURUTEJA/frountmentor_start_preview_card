@@ -1,0 +1,86 @@
+html,body{
+    width: 1440px;
+    background-color: hsl(233, 47%, 7%);
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+}
+.block{
+    background-color: hsl(244, 38%,16%);
+    width: 1120px;
+    height: 446px;
+    margin: 177px auto 177px auto;
+}
+h1{ margin-right: 0px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    color:  hsl(0, 0%, 100%);
+    width: 450px;
+}
+span{
+    color: hsl(277, 64%, 61%);
+}
+.content{
+    font-family: Inter;
+    display: inline-block;
+    position: relative;
+    width: 500px;
+    padding: 50px 0px 50px 60px;
+}
+p{  
+     margin-top: 0px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+.text{
+    line-height: 1.5;
+    width: 400px;
+}
+h3{
+    color: hsl(0, 0%, 100%);
+    margin-bottom:0px ;
+}
+section{
+    width: 50%;
+    height: 100%;
+    background-image: url(./images/image-header-desktop.jpg);
+    background-size: cover;
+    position: relative;
+    float: right;
+    margin-left: 0px;
+    
+}
+.image{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: rgba(162, 69, 219, 0.7);;
+
+}
+.k{
+    position: relative;
+    display: inline-block;
+    top: 50px;
+}
+.mi{
+    position: relative;
+    display: inline-block;
+    top: 50px;
+    left:60px;
+}
+.M{
+    position: relative;
+    display: inline-block;
+    top: 50px;
+    left: 130PX;
+    
+}
+.attribution{
+    position: absolute;
+    color: hsla(0, 0%, 100%, 0.75);;
+    font-family: Inter;
+    top : 700px;
+    right: 660px;
+}
+
